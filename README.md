@@ -1,2 +1,2 @@
 # Film-Rating-App
-Wir wissen nicht was wir tuen bitte Hilfe!!!11!
+Sammeln und Bewerten von Filmtiteln
